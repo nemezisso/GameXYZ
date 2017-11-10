@@ -1,0 +1,68 @@
+
+Hero.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Shoot
+  rotate: false
+  xy: 1, 2971
+  size: 6032, 1004
+  orig: 6032, 1004
+  offset: 0, 0
+  index: -1
+Knockback
+  rotate: false
+  xy: 1, 1881
+  size: 5360, 1088
+  orig: 5360, 1088
+  offset: 0, 0
+  index: -1
+Death
+  rotate: false
+  xy: 1, 190
+  size: 3465, 1689
+  orig: 3465, 1689
+  offset: 0, 0
+  index: -1
+Run
+  rotate: false
+  xy: 6035, 2319
+  size: 3225, 1656
+  orig: 3225, 1656
+  offset: 0, 0
+  index: -1
+JumpStart
+  rotate: false
+  xy: 3468, 939
+  size: 2735, 940
+  orig: 2735, 940
+  offset: 0, 0
+  index: -1
+Hurt
+  rotate: false
+  xy: 3468, 1
+  size: 2830, 936
+  orig: 2830, 936
+  offset: 0, 0
+  index: -1
+Idle
+  rotate: false
+  xy: 6205, 1413
+  size: 2694, 904
+  orig: 2694, 904
+  offset: 0, 0
+  index: -1
+JumpOnAir
+  rotate: false
+  xy: 5363, 2503
+  size: 549, 466
+  orig: 549, 466
+  offset: 0, 0
+  index: -1
+JumpFall
+  rotate: false
+  xy: 6205, 979
+  size: 542, 432
+  orig: 542, 432
+  offset: 0, 0
+  index: -1

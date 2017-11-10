@@ -1,0 +1,15 @@
+{
+  "com.badlogic.gdx.graphics.Color":{
+    "white": {"r": 1, "g": 1, "b": 1, "a": 1},
+    "green": {"r": 0, "g": 1, "b": 0, "a": 1}
+  },
+  "com.badlogic.gdx.graphics.g2d.BitmapFont": {
+    "deadSaloon": {"file": "fontButton.fnt"}
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle": {
+    "default": {"font": "deadSaloon", "fontColor": "white"}
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle": {
+    "default": {"up": "button.up","down": "button.down", "font": "deadSaloon", "pressedOffsetX": 1,"pressedOffsetY": -1 }
+  }
+}
